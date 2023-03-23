@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest --verbose --colors",
+    "test:w": "jest --watch --verbose --colors"
+  },
+  "type": "module"
+}
