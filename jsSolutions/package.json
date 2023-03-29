@@ -6,5 +6,6 @@
     "test": "jest --verbose --colors",
     "test:w": "jest --watch --verbose --colors"
   },
-  "type": "module"
+  "type": "module",
+  "prettier": {}
 }
